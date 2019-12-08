@@ -29,7 +29,6 @@ ExportedObj/
 sysinfo.txt
 
 # Use Assets only
-/ProjectSettings/*
 /Packages/*
 /Logs/*
 
