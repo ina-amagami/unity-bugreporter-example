@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 using UnityEngine.Experimental.UIElements;
 #endif
 
-namespace Backlog.BugReporter
+namespace BugReporter
 {
 	/// <summary>
 	/// バグ報告用の設定ファイルをProjectSettingsから編集できるようにする

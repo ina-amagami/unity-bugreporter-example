@@ -1,13 +1,14 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEditor;
 using System;
 using System.Linq;
 using System.IO;
-using NBacklog.DataTypes;
 using System.Threading.Tasks;
+using System.Collections.Generic;
+using NBacklog.DataTypes;
+using Backlog;
 
-namespace Backlog.BugReporter
+namespace BugReporter
 {
 	/// <summary>
 	/// Backlogにバグ報告チケットを追加する
